@@ -86,8 +86,7 @@ This project is licensed under the Apache License, Version 2.0. See the LICENSE 
 ## Contributing
 Contributions are welcome! Please read the CONTRIBUTING guidelines before submitting a pull request.
 
-## Contact
-For any inquiries, please contact the project maintainers.
+ 
 
 ---
 This README provides a high-level overview of the Supplychain project. For more detailed documentation, please refer to the source code and comments within the project files.
